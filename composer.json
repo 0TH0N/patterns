@@ -1,0 +1,14 @@
+{
+    "name": "bator/patterns",
+    "description": "It's project for learning patterns",
+    "authors": [
+        {
+            "name": "bator",
+            "email": "empty@empty.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8.5"
+    }
+}
